@@ -1,10 +1,15 @@
 
 
 
+<h1 align="center">Hi 👋 I'm Rabiah</h1>
+
+<p align="center">
+Cybersecurity Student | Ethical Hacking Enthusiast
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/cyberpunk.gif" width="700"/>
 </p>
-
 
 
 ---
