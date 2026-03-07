@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/cyberpunk.gif" width="700"/>
 </p>
 
 
