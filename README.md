@@ -56,7 +56,7 @@ I’m Rabiah, an aspiring Cybersecurity Specialist. Currently pursuing my Bachel
 
 ---
 📌 Featured Projects
-
+- Password-Analyzer
 
 
 ---
